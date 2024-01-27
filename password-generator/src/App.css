@@ -1,0 +1,38 @@
+body{
+    background-color: #0a2342;
+    color: white;
+}
+.main{
+    border: 5px solid;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  padding: 10px;
+}
+
+.main h1{
+    text-align: center;
+}
+
+.value{
+    margin-left: 150px;
+    margin-top: -20px ;
+}
+
+.checkBox{
+    font-size: 18px; 
+}
+.generate{
+    margin-top: 20px;
+}
+
+.inputContainer{
+    display: flex;
+    align-items: center;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.password2{
+  margin-right: 10px;
+}
